@@ -1,36 +1,37 @@
-Big Data in Sports Broadcasting — 3Vs (Short Notes)
-1. Volume
+# Big Data in Sports Broadcasting — 3Vs (Short Notes)
 
-Multiple 4K/8K camera feeds
 
-Player tracking: thousands of data points per match
+## 1. Volume
+- Multiple 4K/8K camera feeds
 
-Wearable sensor data
+- Player tracking: thousands of data points per match
 
-Huge historical match archives
+- Wearable sensor data
 
-Massive social media interactions
+- Huge historical match archives
 
-2. Velocity
+- Massive social media interactions
 
-Real-time player speed, heatmaps
+## 2. Velocity
 
-Ball tracking and trajectory (Hawk-Eye, DRS)
+- Real-time player speed, heatmaps
 
-Live score + fantasy updates
+- Ball tracking and trajectory (Hawk-Eye, DRS)
 
-Instant fan sentiment analysis
+- Live score + fantasy updates
 
-Low-latency streaming and graphics
+- Instant fan sentiment analysis
 
-3. Variety
+- Low-latency streaming and graphics
 
-Video, audio, GPS, biometric sensors
+## 3. Variety
 
-Structured stats (runs, passes, speed)
+- Video, audio, GPS, biometric sensors
 
-Unstructured data (tweets, comments)
+- Structured stats (runs, passes, speed)
 
-AR graphics, pitch maps, decision systems
+- Unstructured data (tweets, comments)
 
-Multilingual commentary + OTT data layers
+- AR graphics, pitch maps, decision systems
+
+- Multilingual commentary + OTT data layers
